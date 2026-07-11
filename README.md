@@ -1,6 +1,6 @@
 # Web-Technology-Assignment
 # Student Details
-Student Name:G.Vishnuvardhan Reddy
+Student Name:G.VishnuVardhan Reddy
 
 Roll Number:24881A1222
 
