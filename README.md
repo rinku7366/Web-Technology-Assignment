@@ -1,8 +1,11 @@
 # Web-Technology-Assignment
 # Student Details
 Student Name:G.Vishnuvardhan Reddy
+
 Roll Number:24881A1222
+
 Section:A
+
 Course Name:Web Technologies
 
 # Week 1
